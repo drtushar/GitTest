@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "THIS IS TEST REPO FOR GIT AND NODE",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drtushar/GitTest.git"
+  },
+  "author": "Tushar Deshmukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drtushar/GitTest/issues"
+  },
+  "homepage": "https://github.com/drtushar/GitTest#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
